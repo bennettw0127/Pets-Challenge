@@ -1,0 +1,3 @@
+/Users/bennettw0127/Documents/IT 2040/Pets Challenge/obj/Debug/netcoreapp3.1/Pets Challenge.csprojAssemblyReference.cache
+/Users/bennettw0127/Documents/IT 2040/Pets Challenge/obj/Debug/netcoreapp3.1/Pets Challenge.AssemblyInfoInputs.cache
+/Users/bennettw0127/Documents/IT 2040/Pets Challenge/obj/Debug/netcoreapp3.1/Pets Challenge.AssemblyInfo.cs
